@@ -3,5 +3,5 @@ class Greeter:
         self.name = name
 #creating functions
     def say_hello(self):
-        return f"Hello, {self.name}"
+        return f"Hello, {self.name}!"
 

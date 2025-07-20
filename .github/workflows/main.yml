@@ -25,7 +25,7 @@ jobs:
 
     - name: execute the test script
       run: |
-        python -m unittest test_calculator.py
+        python -m unittest test_greeter.py
 
         
 
